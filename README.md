@@ -35,9 +35,9 @@
 
 ## 📂 Projects
 
-* 🔹 Contact Form App (Next.js + DB)
+* 🔹 Werther App (HTML, CSS, & JS)
+* 🔹 Todo List
 * 🔹 Portfolio Website
-* 🔹 CRUD App (Coming Soon)
 
 ---
 
