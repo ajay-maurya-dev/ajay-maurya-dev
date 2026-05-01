@@ -30,6 +30,8 @@
 * Python
 * Data Science Basics
 * Git & GitHub
+* Docker
+* Kubernetes
 
 ---
 
@@ -38,6 +40,7 @@
 * 🔹 Werther App (HTML, CSS, & JS)
 * 🔹 Todo List
 * 🔹 Portfolio Website
+* 🔷 Coffee Website
 
 ---
 
